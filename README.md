@@ -18,7 +18,7 @@ Each herb includes:
 
 The project is mostly static (basic frontend + database).
 
-No backend logic – only database is used for storing herb info.
+No backend logic – only database is used for storing user info.
 
 Designed as a beginner project for learning web development.
 
